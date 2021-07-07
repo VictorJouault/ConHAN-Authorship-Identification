@@ -10,3 +10,4 @@ Authorship identification is a common and important task in the field of Natural
 
 ## Original paper
 
+https://github.com/VictorJouault/ConHAN-Authorship-Identification/blob/main/Paper%20ConHAN.pdf
